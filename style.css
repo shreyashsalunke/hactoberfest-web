@@ -1,65 +1,73 @@
 #navbar {
-  position: relative;
+    position: relative;
 }
 
 .logo {
-  width: 5%;
+    width: 5%;
 }
 
 body {
-  font-family: "Nova Square", cursive;
-  font-size: 30px;
+    font-family: "Nova Square", cursive;
+    font-size: 30px;
+
 }
 
 .middle {
-  position: relative;
-  background-color: black;
-  padding: 140px;
-  
+    position: relative;
+    background-color: black;
+    padding: 140px;
+
 }
 
 img {
-  width: 98%;
-  border-radius: 5%;
+    width: 98%;
+    border-radius: 5%;
 }
 
 img:hover {
-  box-sizing: border-box;
-  -ms-transform: scale(1.1); /* IE 9 */
-  -webkit-transform: scale(1.1); /* Safari 3-8 */
-  transform: scale(1.1);
+    box-sizing: border-box;
+    -ms-transform: scale(1.1);
+    /* IE 9 */
+    -webkit-transform: scale(1.1);
+    /* Safari 3-8 */
+    transform: scale(1.1);
 }
 
 #Contribution {
-  background-color: black;
-  color: #fff;
+    background-color: black;
+    color: #fff;
 }
 
 
 .you {
-  font-size: 20px;
+    font-size: 20px;
 }
 
 .Vishal {
-  color: #31e1f7;
+    color: #31e1f7;
 
-.you{
-  font-size: 30px;
+    .you {
+        font-size: 30px;
+    }
+
+    .gaurav {
+        color: white;
+    }
+
+
+    .anikkkkettt {
+        background-color: white;
+        color: black;
+    }
+
 }
 
-.gaurav {
-  color: white;
+.yash {
+    color: blue;
 }
 
-
-.anikkkkettt{
-  background-color: white;
-  color: black;
+.container h2 {
+    font-weight: 100;
+    text-decoration: underline;
+    font-style: bold;
 }
-
-}
-
-.yash{
-  color: blue;
-}
-
