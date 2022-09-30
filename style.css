@@ -19,6 +19,7 @@ body{
   position: relative;
   background-color: black;
   padding: 140px;
+  
 }
 
 img{
@@ -44,11 +45,11 @@ img:hover{
 }
 
 .you{
-  font-size: 20px;
+  font-size: 30px;
 }
 
 .Vishal{
-  color: #31E1F7;
+  color: #31E1E7;
 }
 
 .gaurav{
