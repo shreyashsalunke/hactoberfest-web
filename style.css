@@ -1,61 +1,65 @@
-#navbar{
+#navbar {
   position: relative;
 }
 
-.logo{
+.logo {
   width: 5%;
 }
 
-body{
-  font-family: 'Nova Square', cursive;
-
+body {
+  font-family: "Nova Square", cursive;
   font-size: 30px;
 }
 
-
-
-.middle{
-  margin-top: 100px;
+.middle {
   position: relative;
   background-color: black;
   padding: 140px;
+  
 }
 
-img{
+img {
   width: 98%;
+  border-radius: 5%;
 }
 
-img:hover{
+img:hover {
   box-sizing: border-box;
   -ms-transform: scale(1.1); /* IE 9 */
   -webkit-transform: scale(1.1); /* Safari 3-8 */
   transform: scale(1.1);
 }
 
-.text{
-  margin: 100px 0 100px 100px;
-
-}
-
-
-#Contribution{
+#Contribution {
   background-color: black;
   color: #fff;
 }
 
-.you{
+
+.you {
   font-size: 20px;
 }
 
-.Vishal{
-  color: #31E1F7;
+.Vishal {
+  color: #31e1f7;
+
+.you{
+  font-size: 30px;
 }
 
-.gaurav{
+.gaurav {
   color: white;
 }
+
 
 .anikkkkettt{
   background-color: white;
   color: black;
 }
+
+}
+
+.yash{
+  color: blue;
+}
+
